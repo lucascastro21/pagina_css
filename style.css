@@ -1,0 +1,10 @@
+.teste {
+    background-color: #ffd900;
+    color: black;
+    text-align: center;
+    font: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
